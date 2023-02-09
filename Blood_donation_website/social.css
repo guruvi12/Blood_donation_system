@@ -1,0 +1,35 @@
+body{
+background:#FF0000;
+}
+h1{
+text-align:center;
+color:white;
+text-decoration:underline;
+font-family:algerian,courier;
+font-size:500;
+line-height:100%;
+}
+h2{
+text-align:center;
+color:black;
+font-family:algerian,courier;
+line-height:80%;
+}
+span{
+text-align:center;
+color:red;
+width:0.7em;
+font-family:algerian,courier;
+line-height:80%;
+}
+.social-menu ul{
+position:absolute;
+top:40%;
+center:70%;
+transform:traslate(-50%,-50%);
+display:flex;
+}
+body{
+    background: url(img.jpg) no-repeat center center fixed;
+    background-size:cover;
+}

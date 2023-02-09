@@ -1,0 +1,17 @@
+table{
+border-style:solid;
+padding:5px;
+}
+
+th{
+background-color:red;
+
+}
+tr{
+padding:5px;
+}
+td{
+background-color:Lavender;
+text-align:center;
+padding:5px;
+}
